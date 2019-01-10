@@ -1,4 +1,4 @@
-image: buildpack-deps:stretch
+image: node:11.6.0-stretch
 
 release:
   only:
