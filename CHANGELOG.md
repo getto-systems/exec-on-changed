@@ -1,3 +1,7 @@
+# Version : 1.0.0
+
+major release
+
 # Version : 0.4.0
 
 release test
