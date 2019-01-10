@@ -1,0 +1,26 @@
+{
+  "name": "exec-on-changed",
+  "version": "0.0.0",
+  "description": "execute command when file changed",
+  "main": "index.js",
+  "bin": {
+    "exec-on-changed": "./bin/exec-on-changed.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/getto-systems/exec-on-changed.git"
+  },
+  "author": "shun@getto.systems",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/getto-systems/exec-on-changed/issues"
+  },
+  "homepage": "https://github.com/getto-systems/exec-on-changed#readme",
+  "dependencies": {
+    "commander": "^2.19.0",
+    "node-watch": "^0.6.0"
+  }
+}
