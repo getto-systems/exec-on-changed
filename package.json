@@ -1,6 +1,6 @@
 {
   "name": "exec-on-changed",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "execute command when file changed",
   "main": "index.js",
   "bin": {
