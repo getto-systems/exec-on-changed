@@ -1,3 +1,7 @@
+# Version : 0.4.0
+
+release test
+
 # Version : 0.3.0
 
 fix: gitlab-ci
