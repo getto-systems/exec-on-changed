@@ -31,7 +31,7 @@ exec-on-changed -d /path/to/watching/dir -f /path/to/exec
 #### Args
 
 1. watching directory path : specified with --dir (-d)
-1. path to changed path
+1. path to changed file
 
 #### Example
 
