@@ -10,4 +10,4 @@ commander.version(require("../package.json").version)
   .option("-f, --file [file]", "The file to execute when file created or changed. Exec: `file $dir $path`")
   .parse(process.argv);
 
-exec.watchTree(commander.dir, commander.file);
+exec.watch(commander.dir, commander.file);
