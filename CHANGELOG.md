@@ -1,3 +1,7 @@
+# Version : 1.1.0
+
+fix: watchTree -> watch
+
 # Version : 1.0.0
 
 major release

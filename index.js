@@ -1,6 +1,6 @@
 "use strict";
 
-exports.watchTree = (dir, file) => {
+exports.watch = (dir, file) => {
   const watch = require("node-watch");
   const path = require("path");
   const {execFile} = require("child_process");
