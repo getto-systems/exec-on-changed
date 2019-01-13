@@ -2,7 +2,7 @@ image: node:11.6.0-stretch
 
 release:
   only:
-    - release@getto-systems-labo/exec-on-changed
+    - release@getto-systems-labo/node/exec-on-changed
   script:
     - ./bin/push_tags.sh
     - ./bin/publish.sh
