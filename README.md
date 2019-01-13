@@ -1,4 +1,4 @@
-# exec-on-changed
+# node-exec-on-changed
 
 Node.js utility: execute command when file changed
 
@@ -71,6 +71,6 @@ npm install --save-dev exec-on-changed
 <a id="License"></a>
 ## License
 
-exec-on-changed is licensed under the [MIT](LICENSE) license.
+node-exec-on-changed is licensed under the [MIT](LICENSE) license.
 
 Copyright &copy; since 2018 shun@getto.systems

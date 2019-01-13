@@ -1,3 +1,7 @@
+# Version : 1.2.0
+
+rename: repostiory
+
 # Version : 1.1.0
 
 fix: watchTree -> watch

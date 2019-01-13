@@ -1,6 +1,6 @@
 {
   "name": "exec-on-changed",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "execute command when file changed",
   "main": "index.js",
   "bin": {
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/getto-systems/exec-on-changed.git"
+    "url": "git+https://github.com/getto-systems/node-exec-on-changed.git"
   },
   "author": "shun@getto.systems",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/getto-systems/exec-on-changed/issues"
+    "url": "https://github.com/getto-systems/node-exec-on-changed/issues"
   },
-  "homepage": "https://github.com/getto-systems/exec-on-changed#readme",
+  "homepage": "https://github.com/getto-systems/node-exec-on-changed#readme",
   "dependencies": {
     "commander": "^2.19.0",
     "node-watch": "^0.6.0"
